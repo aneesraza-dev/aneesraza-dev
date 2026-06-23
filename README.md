@@ -116,18 +116,6 @@ const muhammad_anees_raza = {
 
 
 
-<h2 align="center">
-  CONTRIBUTION ACTIVITY
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aneesraza-dev&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&height=300">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneesraza-dev&custom_title=Muhammad%20Anees%20Raza's%20Contribution%20Graph&bg_color=0D1117&color=667EEA&line=764BA2&point=FF6B6B&area_color=667EEA&area=true&hide_border=true&height=300" width="100%" alt="Contribution Graph"/>
-  </picture>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
 
 <h2 align="center">
