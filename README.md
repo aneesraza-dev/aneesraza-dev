@@ -3,34 +3,12 @@
 </div>
 
 
-<!-- <div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=I+Build+Websites;I+Write+Simple+Clean+Code" alt="Typing SVG" />
-  </a>
-</div> -->
-
-
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-anees-raza">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aneesraza789456@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://aneesraza.netlify.app">
-    <img src="https://img.shields.io/badge/-Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/despicabledeveloper">
-    <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
   ABOUT My~SELF
 </h2>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> -->
 
 <div align="left" style="padding: 20px;">
 
@@ -95,22 +73,7 @@ const muhammad_anees_raza = {
 
 </div>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  EXPERTISE
-</h2>
-
-<div align="center">
-
-|  Backend Engineering |  Frontend Development |  Database Design |  DevOps & Tools |
-|:----------------------:|:-----------------------:|:------------------:|:-----------------:|
-| Laravel | Responsive UI | MySQL | Git |
-| .NET Core | Bootstrap | SQL Server | API Testing |
-| RESTful APIs | JavaScript | Query Optimization | Code Review |
-| MVC Pattern | AJAX | Data Migration | React & React Native |
-
-</div> -->
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -246,12 +209,6 @@ currentProjects.forEach(project => {
     <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-        <!-- <p>
-          <b>Location:</b> Karachi, Pakistan<br/>
-          <b>Email:</b> <a href="mailto:aneesraza789456@gmail.com">aneesraza789456@gmail.com</a><br/>
-          <b>Portfolio:</b> <a href="https://aneesraza.netlify.app">aneesraza.netlify.app</a><br/>
-          <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/muhammad-anees-raza">muhammad-anees-raza</a>
-        </p> -->
         <br/>
         <p><b>Open for:</b></p>
        <p align="center">
@@ -269,7 +226,7 @@ currentProjects.forEach(project => {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20make%20something%2C%20then%20make%20it%20beautiful.&author=Someone&fontSize=18" width="600px"/>
-  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="600px"/> -->
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
