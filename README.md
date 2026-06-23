@@ -1,8 +1,8 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:00FF9F&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:00FF9F,100:1A1A2E&height=280&section=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/> 
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:00FF9F,100:1A1A2E&height=280&section=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>  -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:00FF9F,100:1A1A2E&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=ffffff&fontAlignY=35&stroke=ffffff&strokeWidth=2&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22&animation=fadeIn" width="100%"/>
 
 <h2 align="center">
   ABOUT My~SELF
