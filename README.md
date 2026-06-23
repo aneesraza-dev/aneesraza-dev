@@ -1,6 +1,16 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:00B4D8&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:7B2FBE&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:FF2D55&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:FFD700&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,100:FF6B35&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,50:00CC7A,100:006644&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:00FF9F,100:00E5FF&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:00FF9F&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9F,60:00FFD4,100:FFFFFF&height=280§ion=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
+
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9F&height=280&section=header&text=MUHAMMAD~ANEES~RAZA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=22" width="100%"/>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
