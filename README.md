@@ -204,15 +204,8 @@ currentProjects.forEach(project => {
     <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-        <br/>
   
-  <p align="center">
-  <img src="https://img.shields.io/badge/Freelance%20Projects-0077B5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--time%20Opportunities-764BA2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Consulting-EA4335?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collaboration-24292e?style=for-the-badge&logoColor=white" />
-</p>
-      </td>
+</td>
     </tr>
   </table>
 </div>
