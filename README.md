@@ -205,8 +205,8 @@ currentProjects.forEach(project => {
   </a>
 </p>
         <br/>
-        <p><b>Open for:</b></p>
-       <p align="center">
+  
+  <p align="center">
   <img src="https://img.shields.io/badge/Freelance%20Projects-0077B5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--time%20Opportunities-764BA2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Consulting-EA4335?style=for-the-badge&logoColor=white" />
