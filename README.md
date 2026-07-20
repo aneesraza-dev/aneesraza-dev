@@ -18,7 +18,7 @@ const muhammad_anees_raza = {
             csharp: [".NET_Core", "ASP.NET_MVC"]
         },
         frontend: ["Bootstrap 5", "jQuery", "AJAX", "Responsive Design"],
-        databases: ["MySQL", "SQL Server","],
+        databases: ["MySQL", "SQL Server"],
         design: ["Figma", "UI/UX Design", "Canva"]
     },
     architecture: ["MVC", "RESTful APIs", "Microservices"],
