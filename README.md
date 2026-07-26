@@ -186,9 +186,7 @@ currentProjects.forEach(project => {
     <i>"Solving hard problems with simple code, one commit at a time."</i>
   </p>
   
-  <p>
-    <img src="https://img.shields.io/badge/Star_my_repos_if_you_find_them_useful!-667EEA?style=for-the-badge" alt="Star Badge"/>
-  </p>
+ 
 </div>
 
 <div align="center">
