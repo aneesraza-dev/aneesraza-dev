@@ -100,24 +100,20 @@ const muhammad_anees_raza = {
 
 <div align="center">
 
-```typescript
-interface DeveloperMindset {
-    codeQuality: "Clean, maintainable, and well-documented",
-    architecture: "Scalable and future-proof design",
-    testing: "Comprehensive testing for reliability",
-    learning: "Continuous growth and adaptation",
-    collaboration: "Effective teamwork and communication"
+```typescriptclass Developer {
+  constructor() {
+    this.code = "Clean";
+    this.coffee = "Unlimited ☕";
+    this.bugs = "Temporary";
+    this.learning = "Infinite";
+  }
+
+  build() {
+    return "Creating solutions that matter.";
+  }
 }
 
-const myApproach: DeveloperMindset = {
-    codeQuality: "Writing code that tells a story",
-    architecture: "Building solutions that stand the test of time",
-    testing: "Ensuring robustness through rigorous testing",
-    learning: "Embracing new technologies and best practices",
-    collaboration: "Lifting the team through knowledge sharing"
-};
-
-console.log("First make something, then make it beautiful");
+console.log(new Developer().build());
 ```
 
 </div>
