@@ -70,7 +70,7 @@
 
 
 <h2 align="center">
-  DEVELOPER LIFE 💻
+  DEVELOPER~LIFE 💻
 </h2>
 
 <div align="left" style="padding: 20px;">
