@@ -26,15 +26,21 @@
 <div align="left" style="padding: 20px;">
 
 ```js
-const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
-  mindset: "Think. Build. Improve.",
-  code: "Clean & Scalable",
-  learning: "∞",
-};
 
-console.log("Building experiences, not just applications.");
+class Developer {
+  constructor() {
+    this.code = "Clean";
+    this.coffee = "Unlimited ☕";
+    this.bugs = "Temporary";
+    this.learning = "Infinite";
+  }
+
+  build() {
+    return "Creating solutions that matter.";
+  }
+}
+
+console.log(new Developer().build());
 ```
 
 </div>
