@@ -23,7 +23,7 @@
 <br clear="right"/>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Turning+tough+problems+into+simple+solutions;One+commit+at+a+time" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1A1A2E,50:00FF9F,100:1A1A2E&height=60&section=header">
 
 <h2 align="center">
   CODING~TECHNOLOGIES
