@@ -176,6 +176,7 @@ currentProjects.forEach(project => {
 
 <div align="center">
   
+<img src="https://github.com/DespicableDeveloper/DespicableDeveloper/blob/main/2.jpg" width="100%"  style="border-radius: 50%; border: 4px solid #667EEA;"/>
   <h3>
     Made with ♥ and ☕ by Muhammad Anees Raza
   </h3>
