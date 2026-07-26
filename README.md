@@ -73,7 +73,7 @@
 
 <div align="left" style="padding: 20px;">
 
-```js
+```javascript
 class Developer {
   constructor() {
     this.code = "Clean";
@@ -139,7 +139,7 @@ console.log(me.build());
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const Project_Flow = [
