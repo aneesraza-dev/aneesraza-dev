@@ -22,7 +22,9 @@
   
 </div>
 
+<div align="left" style="padding: 20px;">
 
+```js
 class Developer {
   constructor() {
     this.code = "Clean";
@@ -38,6 +40,9 @@ class Developer {
 
 const me = new Developer();
 console.log(me.build());
+```
+
+</div>
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
