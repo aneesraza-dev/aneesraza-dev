@@ -213,7 +213,7 @@ currentProjects.forEach(project => {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20make%20something%2C%20then%20make%20it%20beautiful.&author=Despicable%20Dev&fontSize=18" width="600px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20make%20something%2C%20then%20make%20it%20beautiful.&author=Despicable~Dev&fontSize=18" width="600px"/>
 
 </div>
 
