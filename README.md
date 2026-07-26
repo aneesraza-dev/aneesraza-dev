@@ -23,7 +23,7 @@
 </div>
 
 
-<div align="left" style="padding: 20px;">
+<div align="center" style="padding: 20px;">
 
 ```js
 const developer = {
