@@ -112,9 +112,6 @@ console.log(me.build());
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  PROFESSIONAL HIGHLIGHTS
-</h2>
 
 <table align="center">
   <tr>
@@ -143,14 +140,11 @@ console.log(me.build());
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  CURRENTLY WORKING ON
-</h2>
 
 <div align="center">
 
 ```javascript
-const currentProjects = [
+const Project_Flow = [
     "Building enterprise-grade Laravel applications",
     "Mastering advanced .NET Core patterns",
     "Optimizing database performance",
@@ -174,7 +168,7 @@ currentProjects.forEach(project => {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  WATCH MY CONTRIBUTIONS
+  MY~CONTRIBUTIONS
 </h2>
 
 <div align="center">
@@ -189,7 +183,7 @@ currentProjects.forEach(project => {
   </h3>
   
   <p>
-    <i>"Transforming complex problems into elegant solutions, one commit at a time"</i>
+    <i>"Solving hard problems with simple code, one commit at a time."</i>
   </p>
   
   <p>
