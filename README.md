@@ -25,24 +25,16 @@
 
 <div align="left" style="padding: 20px;">
 
-```typescript
-const muhammad_anees_raza = {
-    role: "Full Stack Developer",
-    location: "Karachi, Pakistan",
-    skills: ["HTML","CSS","JS","Jquery","Git","Github","XML","JSON","MYSQL","PHP","Laravel","C#","SQL_Server","Console_App","Windows_Form","ASP_.Net_Core_MVC","React","Node_js","Python","R_Programming","React Native"],
-    technologies: {
-        backend: {
-            php: ["Laravel 8/9/10", "WordPress"],
-            csharp: [".NET_Core", "ASP.NET_MVC"]
-        },
-        frontend: ["Bootstrap 5", "jQuery", "AJAX", "Responsive Design"],
-        databases: ["MySQL", "SQL Server"],
-        design: ["Figma", "UI/UX Design", "Canva"]
-    },
-    architecture: ["MVC", "RESTful APIs", "Microservices"],
-    currentFocus: "Building enterprise-grade applications",
-    funFact: "I debug code faster than I debug my life "
+```js
+const developer = {
+  name: "Your Name",
+  role: "Full Stack Developer",
+  mindset: "Think. Build. Improve.",
+  code: "Clean & Scalable",
+  learning: "∞",
 };
+
+console.log("Building experiences, not just applications.");
 ```
 
 </div>
