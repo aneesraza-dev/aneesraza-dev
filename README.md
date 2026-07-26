@@ -22,7 +22,8 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Turning+tough+problems+into+simple+solutions;One+commit+at+a+time" />
 
 <h2 align="center">
   CODING~TECHNOLOGIES
