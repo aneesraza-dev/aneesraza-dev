@@ -191,16 +191,16 @@ currentProjects.forEach(project => {
         <p><i>Full Stack Developer</i></p>
         <br/>
         <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-anees-raza">
+  <a href="https://www.linkedin.com/in/maneesraza110">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aneesraza789456@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aneesraza.netlify.app">
+  <a href="https://aneesrazadev.online">
     <img src="https://img.shields.io/badge/-Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/despicabledeveloper">
+  <a href="https://github.com/aneesraza-dev">
     <img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -213,7 +213,7 @@ currentProjects.forEach(project => {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20make%20something%2C%20then%20make%20it%20beautiful.&author=Someone&fontSize=18" width="600px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20make%20something%2C%20then%20make%20it%20beautiful.&author=Despicable%20Dev&fontSize=18" width="600px"/>
 
 </div>
 
