@@ -22,27 +22,6 @@
   
 </div>
 
-<div align="left" style="padding: 20px;">
-
-```js
-class Developer {
-  constructor() {
-    this.code = "Clean";
-    this.coffee = "Unlimited ☕";
-    this.bugs = "Temporary";
-    this.learning = "Infinite";
-  }
-
-  build() {
-    return "Creating solutions that matter.";
-  }
-}
-
-const me = new Developer();
-console.log(me.build());
-```
-
-</div>
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -94,9 +73,10 @@ console.log(me.build());
   DEVELOPMENT PHILOSOPHY
 </h2>
 
-<div align="center">
+<div align="left" style="padding: 20px;">
 
-```typescriptclass Developer {
+```js
+class Developer {
   constructor() {
     this.code = "Clean";
     this.coffee = "Unlimited ☕";
@@ -109,11 +89,11 @@ console.log(me.build());
   }
 }
 
-console.log(new Developer().build());
+const me = new Developer();
+console.log(me.build());
 ```
 
 </div>
-
 
 
 
