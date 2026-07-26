@@ -24,9 +24,7 @@
 
 
 <div align="left" style="padding: 20px;">
-
 ```js
-
 class Developer {
   constructor() {
     this.code = "Clean";
@@ -40,9 +38,9 @@ class Developer {
   }
 }
 
-console.log(new Developer().build());
-```
-
+const me = new Developer();
+console.log(me.build());
+        ```
 </div>
 
 <br clear="right"/>
