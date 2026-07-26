@@ -22,8 +22,7 @@
 
 <br clear="right"/>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1A1A2E,50:00FF9F,100:1A1A2E&height=60&section=header&animation=fadeIn">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
   CODING~TECHNOLOGIES
